@@ -110,7 +110,7 @@ select {
 }
 
 #cta {
-    display: none;
+    display: inline;
 }
 
 #legend {
